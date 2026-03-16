@@ -16,7 +16,7 @@ Estudiante de Tecnicatura en Programación en la Universidad Nacional de Hurling
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
-![Git](https://img.shields.io/badge/Git-orange))
+![Git](https://img.shields.io/badge/Git-orange)
 
 ## Proyectos destacados
 
