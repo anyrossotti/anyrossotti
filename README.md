@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Analía 👋
 
-<!--
-**anyrossotti/anyrossotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Tecnicatura en Programación en la Universidad Nacional de Hurlingham.
 
-Here are some ideas to get you started:
+💻 Interesada en desarrollo web y backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+Python | Flask | Java | HTML | CSS | MySQL | Git
+
+## Proyectos destacados
+
+🐾 Sistema de Gestión Web – Pet Shop  
+Aplicación web con Python (Flask) y MySQL con login de usuarios y panel administrador.
+
+🎮 Red Water Mystery  
+Videojuego desarrollado en Wollok aplicando Programación Orientada a Objetos.
+
+🏦 Simulador Home Banking  
+Aplicación en Java por consola para simulación de operaciones bancarias.
+
+## GitHub
+https://github.com/anyrossotti
