@@ -14,15 +14,15 @@ Python | Flask | Java | HTML | CSS | MySQL | Git
 ## Proyectos destacados
 
 🐾 **Sistema de Gestión Web – Pet Shop**  
-https://github.com/anyrossotti/Sistema-Gestion-PetShop-Flask
+https://github.com/anyrossotti/Sistema-Gestion-PetShop-Flask  
 Aplicación web con Python (Flask) y MySQL con login de usuarios y panel administrador.
 
 🎮 **Red Water Mystery**
-https://github.com/anyrossotti/Red-Water-Mystery-Wollok
+https://github.com/anyrossotti/Red-Water-Mystery-Wollok  
 Videojuego desarrollado en Wollok aplicando Programación Orientada a Objetos.
 
 🏦 **Simulador Home Banking**
-https://github.com/anyrossotti/Simulador-HomeBanking-Java
+https://github.com/anyrossotti/Simulador-HomeBanking-Java  
 Aplicación en Java por consola para simulación de operaciones bancarias.
 
 ---
