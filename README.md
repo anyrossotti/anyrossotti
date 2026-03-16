@@ -24,4 +24,4 @@ Aplicación en Java por consola para simulación de operaciones bancarias.
 
 ---
 
-** Actualmente buscando mi primera oportunidad como desarrolladora junior. **
+**Actualmente buscando mi primera oportunidad como desarrolladora junior.**
